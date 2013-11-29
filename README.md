@@ -1,7 +1,7 @@
 [![Code Climate](https://codeclimate.com/github/Atalanta/leibniz.png)](https://codeclimate.com/github/Atalanta/leibniz)
 # Leibniz
 
-Leibniz is simple utility which provides the ability to launch
+Leibniz is a simple utility which provides the ability to launch
 infrastructure using Test Kitchen, and run acceptance tests against
 that infrastructure.  It is designed to be used as part of a set of
 Cucumber / Gherkin features.
